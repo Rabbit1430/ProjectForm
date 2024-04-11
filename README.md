@@ -1,8 +1,17 @@
-# React + Vite
+<!-- @format -->
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Форма описания профессий и навыков
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Основные функции
+
+- **Професси**: Вы можете выбрать профессию и посмотреть какие основные и дополнительные навыки она покажет
+
+## Технологии
+
+- React.js : для создания пользовательского интерфейса.
+
+## Дополнительная информация
+
+![Демонстрация работы веб-сайта](https://github.com/Rabbit1430/ProjectForm/blob/main/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE%201.gif)
